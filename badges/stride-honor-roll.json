@@ -1,1 +1,18 @@
 
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://GrandDabMaster.github.io/badges/stride-honor-roll",
+  "type": "BadgeClass",
+  "name": "STRIDE Honor Roll",
+  "description": "Awarded for achieving Honor Roll status in the STRIDE program, recognizing integrity, dedication, and academic excellence.",
+  "image": "https://GrandDabMaster.github.io/badges/images/stride-honor-roll.png",
+  "criteria": {
+    "narrative": "Recipient demonstrated outstanding academic performance and met Honor Roll requirements in the STRIDE program."
+  },
+  "issuer": {
+    "id": "https://www.uei.edu",
+    "type": "Issuer",
+    "name": "UEI College",
+    "url": "https://www.uei.edu"
+  }
+}
